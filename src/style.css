@@ -1,0 +1,13 @@
+.spinner{
+	position: absolute;
+	top: 45%;
+	left: 45%;
+}
+
+.load-comments{
+	cursor: pointer;
+}
+
+.hide-comment{
+	display: none;
+}
